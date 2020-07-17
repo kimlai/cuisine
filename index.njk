@@ -1,0 +1,15 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+  <div class="recipes-list">
+    <ul>
+      {%- for recipe in collections.recipes -%}
+      <li>
+        {% if recipe.data.published %}
+          <a href="{{ recipe.url }}">{{ recipe.data.title }}</a>
+        {% endif %}
+      </li>
+      {%- endfor -%}
+    </ul>
+  </div>
+{% endblock %}

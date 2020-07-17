@@ -1,0 +1,123 @@
+:root {
+  --ratio: 1.4;
+  --s0: 1em;
+  --s1: calc(var(--s0) * var(--ratio));
+  --s2: calc(var(--s1) * var(--ratio));
+  --s3: calc(var(--s2) * var(--ratio));
+  --s4: calc(var(--s3) * var(--ratio));
+  --s5: calc(var(--s4) * var(--ratio));
+  --s6: calc(var(--s5) * var(--ratio));
+  --s7: calc(var(--s6) * var(--ratio));
+  --s8: calc(var(--s7) * var(--ratio));
+  --s9: calc(var(--s8) * var(--ratio));
+  --s7: calc(var(--s6) * var(--ratio));
+  --font-special: "Oswald", sans-serif;
+  --font-plain: "Source Serif Pro", serif;
+  font-family: var(--font-plain);
+  line-height: var(--ratio);
+}
+
+a {
+  color: unset;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--s2) var(--s0);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-special);
+  font-weight: 500;
+}
+
+h1 {
+  font-size: var(--s3);
+  margin-bottom: var(--s4);
+}
+
+.flow > * + *,
+aside > * + *,
+article > * + * {
+  margin-top: var(--s0);
+}
+
+.flow * + h2,
+.flow * + h3 {
+  margin-top: var(--s2);
+}
+
+.flow hr {
+  margin-top: var(--s5);
+}
+
+ol.footnotes-list > * + * {
+  margin-top: var(--s0);
+}
+
+ol.footnotes-list {
+  list-style: revert;
+  padding: revert;
+}
+
+.with-sidebar {
+  overflow: hidden;
+}
+
+.with-sidebar > * {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: baseline;
+  margin: calc(var(--s5) / 2 * -1);
+}
+
+.with-sidebar > * > * {
+  margin: calc(var(--s5) / 2);
+}
+
+.recipe--main {
+  max-width: 70ch;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: var(--s0);
+}
+.recipe--content .ingredients {
+  max-width: 40ch;
+}
+
+@media (min-width: 120ch) {
+  .recipe {
+    transform: translateX(-6vw);
+  }
+}
+
+.recipes-list {
+  font-family: var(--font-special);
+  font-size: var(--s1);
+  padding-top: var(--s4);
+}
+.recipes-list > ul {
+  list-style: none;
+}
+
+.recipes-list > ul > * + * {
+  margin-top: var(--s1);
+}
+
+.recipes-list a {
+  text-decoration: none;
+}
+.recipes-list a:hover {
+  text-decoration: underline;
+}
+
+.recipes-list .soon {
+  font-family: var(--font-plain);
+  font-size: var(--s0);
+  font-weight: normal;
+}
