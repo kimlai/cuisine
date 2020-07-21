@@ -50,8 +50,8 @@ Si vous n'avez pas de levain, ou si vous ne savez pas encore ce qu'est un
 rafraîchi, je vous invite à lire [cet
 article](https://nicrunicuit.com/faire/fermenter/jattends-un-levain/).
 
-J'utilise un levain fait en deux rafraîchis. Un levain "jeune" la veille, à 50%
-d'hydratation et 50% d'ensemencement qui lève 4 à 6h, puis un levain tout-point à 80%
+J'utilise un levain fait en deux rafraîchis. Un levain "jeune" la veille, à 100%
+d'hydratation et 100% d'ensemencement qui lève 4 à 6h, puis un levain tout-point à 80%
 d'hydrataion et 10% d'ensemencement qui lève entre 12 et 15h[^2].
 
 [^2]: J'ai d'ailleurs fait une [petite calculatrice](https://boulange.kimlaitrinh.me) pour m'aider un peu dans les calculs de quantité pour les levains.
@@ -81,15 +81,16 @@ par le côté à l'opposé de vous, par en dessous, puis tirer la pâte vers vou
 pour la rabattre de votre côté, poussez avec votre paume par au dessus, puis
 recommencez, en tournant un peu le bol de temps en temps.
 
-La technique de ma grand-mère consiste à former une sorte coupe avec la main, de
-la passer en dessous de la pâte, la tirer puis la laisser retomber sur
+La technique de ma grand-mère consiste à former une sorte de coupe avec la main, de
+la passer en dessous de la pâte, de la tirer puis de la laisser retomber sur
 elle-même.
 
-L'idée principale et d'étirer et d'aplatir la pâte de façon répétée.
+L'idée principale est d'étirer et d'aplatir la pâte de façon répétée.
 
 La pâte devrait être de moins en moins collante et de plus en plus lisse.
-pour savoir si est prête, vous pouvez utiliser [le test de la fenêtre](https://www.youtube.com/watch?v=XDk0J5zy5Pw). Ça me prend en général environ 30 minutes. Si vous
-avez du mal à la manipuler, essayez de faire des mouvements secs et assurés. Les
+pour savoir si est prête, vous pouvez utiliser [le test de la fenêtre](https://www.youtube.com/watch?v=XDk0J5zy5Pw).
+En général ça me prend une trentaine de minutes. Si vous
+avez du mal à manipuler la pâte, essayez de faire des mouvements secs et assurés. Les
 pâtes levées sont comme les chiens : elles sentent la peur.
 
 ### Repos
@@ -107,10 +108,10 @@ Pour qu'elles poussent bien, il faut "donner de la force" à la pâte,
 c'est-à-dire créer de la tension à la surface des boules, par exemple [comme
 ça](https://youtu.be/bEBUNLCK1PI?t=602).
 
-### REPOS II
+### Repos II
 
 Une fois les boules formées, couvrez les d'un ligne propre et laissez les
-reposer 2h à 3h (elles devraient continuer de gonfler).
+reposer 2h à 3h. Elles devraient continuer de gonfler.
 
 ### Le bain de sucre
 
@@ -130,9 +131,10 @@ j'ai compris du la cuisson : les petits pains cuisent grâce à la vapeur dégag
 par le caramel et sont cuits en 10 minutes environ. Néanmoins, ils seront
 bien meilleurs si on attend assez longtemps pour que le caramel ait perdu la
 plus grande partie de son eau et se soit assez épaissi pour qu'une croûte dorée
-puisse se former au contact de la cocotte, et que le caramel forme un napage
+puisse se former sur les pains au contact de la cocotte, et que le caramel forme un napage
 plus agréable qu'une simple eau sucrée trop aqueuse. C'est donc pour ça que
-c'est prêt quand on entend un crépitement dans la cocotte.
+c'est prêt quand on entend un crépitement dans la cocotte : toute l'eau s'est évaporée
+et on est à deux doigts de brûler le caramel et les pains.
 
 Si vous retirez le couvercle en cours de cuisson pour voir où en est le caramel,
 veillez simplement à ne pas faire tomber de gouttes d'eau sur les pains.
