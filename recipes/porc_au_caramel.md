@@ -16,10 +16,10 @@ published: true
 tags: recipe
 ---
 
-Cette recette a le meilleur rapport effort/résultat jamais atteint dans ma
+Ce plat a le meilleur rapport effort/résultat jamais atteint dans ma
 cuisine. C'est que ses trois ingrédients principaux combinent en grandes quantités
-sucre (le caramel), gras (la poitrine de porc) et umami[^1] (la sauce poisson), tout
-en étant très simple à réaliser. Le seul moment un peu stressant de la recette
+du sucre (le caramel), du gras (la poitrine de porc) et de l'umami[^1] (la sauce poisson), tout
+en restant simple à réaliser. Le seul moment un peu stressant de la recette
 c'est le caramel, mais nous verrons comment le réussir à tous les coups.
 
 [^1]: L'umami est parfois appelé la cinquième saveur, en plus du sucré, du salé, de l'acide et de l'amer (en réalité il existe plutôt une dizaine de saveurs différentes). Le goût umami provient en partie de l'acide glutamique, un acide aminé présent dans la plupart des protéines, mais qui n'a pas de goût s'il est lié à d'autres acides aminés au sein d'une protéine. Il est présent à l'état libre (donc apportant de l'umami) dans certains produits frais comme la tomate, mais surtout dans des produits fermentés comme le parmesan, la sauce soja ou la sauce poisson. C'est lui qu'on retrouve dans le fameux glutamate monosodique, l'exhausteur de goût très utilisé dans la cuisine asiatique.
@@ -42,12 +42,15 @@ partie de ces plats qui sont meilleurs réchauffés.
 ### La découpe
 
 Détaillez la poitrine en gros cubes de 4cm de côté (pour moi
-c'est deux phalanges de petit doigt). La poitrine peut contenir des os de côtes,
-dans ce cas vous pouvez soit les retirer en passant la lame du couteau contre
-l'os pour en garder le plus de viande possible, puis découper des cubes, ou
-bien couper des tranches en coupant entre chaque côte avant de faire les cubes.
+c'est deux phalanges de petit doigt). Essayez autant que possible d'avoir des
+morceaux avec autant de gras que de viande.
 
-Ensuite on hache l'ail et le gingembre.
+La poitrine peut contenir des os de côtes, dans ce cas vous pouvez soit les
+retirer en passant la lame du couteau contre l'os pour en garder le plus de viande
+possible, puis découper des cubes, ou bien couper des tranches en coupant entre
+chaque côte avant de faire les cubes.
+
+Ensuite hachez l'ail et le gingembre.
 
 ### Un petit bain
 
@@ -81,23 +84,22 @@ il ne devrait pas y en avoir à enlever.
 
 ### La saisie
 
-Coupez le feu sous le caramel (la caramel chaud colle à la peau et y laisse de
+Coupez le feu (le caramel chaud colle à la peau et y laisse de
 belles brûlures), puis ajoutez les dés de viande (et les os si vous en avez).
 Remuez bien pour bien napper tous les morceaux de viande de caramel. Le caramel
 aura tendance à se solidifer sur votre cuillère en bois, il suffira de la coller
-au fond de la cocotte pour que le caramel re-fonde.
+au fond de la cocotte pour qu'il re-fonde.
 
-Rallumez le feu à feu fort, puis ajoutez l'ail, le gingembre, et 5 grosses
-cuillères à soupe de nuoc mam, et remuez quelques minutes. La quantité de nuoc
+Rallumez le feu à feu vif, puis ajoutez l'ail, le gingembre et 5 grosses
+cuillères à soupe de nuoc mam. Remuez quelques minutes. La quantité de nuoc
 mam dépend de la sauce que vous avez (tous les nuoc mams sont différents) et
 aussi de votre goût. Vous pourrez toujours ajuster plus tard.
 
 ### Ça mijote
 
-Une fois la viande saisie et l'ajout d'ail, gingembre et nuoc mam, on ajoute de
-l'eau de coco pour mettre à niveau (la viande doit être presque entièrement immergée).
-Si vous n'avez pas (ou pas assez) d'eau de coco, de l'eau fait très bien
-l'affaire.
+Ajoutez de l'eau de coco pour mettre à niveau (la viande doit être presque
+entièrement immergée). Si vous n'avez pas (ou pas assez) d'eau de coco, de
+l'eau fait très bien l'affaire.
 
 Ajoutez du poivre et la demie étoile de badiane (je mets entre 5 et 10 grains de
 poivre, selon la force du poivre).
@@ -109,16 +111,16 @@ remontent à la surface.
 ### Les œufs
 
 Les œufs participent à l'effet wow de cette recette pour ceux qui ne la
-connaissent pas : les œufs durs écalés sont mis dans la sauce en fin de cuisson,
+connaissent pas : les œufs durs écalés sont mis dans la sauce en fin de cuisson
 et prennent une belle couleur brune.
 
-Trois-quarts d'heure avant de servir, faites cuire des œufs durs (9-10min), les
-écaler, puis les mettre dans la cocotte, en essayant de les immerger le plus
+Trois-quarts d'heure avant de servir, faites cuire des œufs durs (9-10min),
+écalez-les, puis mettez-les dans la cocotte, en essayant de les immerger le plus
 possible (vous pouvez mettre à la viande au dessus, elle est déjà cuite).
 
 ### La fin
 
-Si vous le souhaitez, vous pouvez retirer la couvercle 45min avant de servir
+Si vous le souhaitez, vous pouvez retirer le couvercle 45 minutes avant de servir
 pour épaissir un peu la sauce.
 
 Ciselez la ciboule, qui sera ajoutée dans les assiettes à cru (sans la faire chauffer).
