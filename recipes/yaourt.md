@@ -23,29 +23,30 @@ transformation d'un aliment de départ en quelque chose de nouveau par une
 colonie de bactéries[^1].
 
 Notre but sera donc de créer un environnement
-propice au développement de ces bactéries. Pour ce faire,
+propice au développement de ces bonnes bactéries. Pour ce faire,
 il va d'abord falloir "inoculer" notre lait, c'est-à-dire lui ajouter une petite
 quantité de bactéries (qu'on appelle le ferment), puis "incuber" ce lait
 ensemencé à une température permettant leur développement, ce qui
-va peu à peu transformer notre lait en yaourt.
+va peu à peu le transformer en yaourt.
 
 [^1]: Pour les yaourts industriels il s'agira de _Lactobacillus delbrueckii_ subsp. _bulgaricus_ et _Streptococcus salivarius_ subsp. _thermohpilus_. Cependant, les souches traditionnelles de yaourt sont bien plus complexes et contiennent tout un écosystème de bactéries, qui varie d'une région à l'autre.
 
-La température idéale varie selon les sources, mais elle se situe toujours entre
-46°C et 57°C, et la durée d'incubation est de 3h. Il existe de nombreuses
-recettes pour faire du yaourt, mais elles se ramènent toutes à la même chose :
-pouvoir maintenir le lait ensemencé à la bonne température pendant 3h.
+La température idéale d'incubation varie selon les sources, mais elle se situe toujours entre
+46°C et 57°C, et la durée d'incubation est de 3 à 5h. Il existe de nombreuses
+méthodes différentes pour faire du yaourt, mais elles se ramènent toutes à la même chose :
+maintenir le lait ensemencé à la bonne température pendant quelques heures.
 
-La technique que j'utilise se fait au bain marie. Je pense que c'est un bon moyen
-d'éviter les changements brusques de température tout au long du processus. Cela
-permet aussi de maintenir le lait à la bonne température pendant la fermentation
-sans rien avoir à surveiller, il suffit de d'assurer qu'on part à la bonne
+Je fais mon yaourt au bain-marie. C'est un bon moyen
+d'éviter les changements brusques de température tout au long du processus, et cela
+permet de maintenir le lait à la bonne température pendant la fermentation
+sans rien avoir à surveiller : il suffit de d'assurer qu'on démarre la
+fermentation à la bonne
 température, puis l'inertie thermique du bain marie fait que le lait refroidit
-assez lentement pour permettre à la fermentation d'avoir lieu.
+assez lentement pour permettre aux bactéries d'avoir le temps de se développer.
 
 Avant d'inoculer le lait, nous allons le faire chauffer jusqu'à 82°C. Cela sert
-d'abord à supprimer les bactéries indésirables contenues dans le lait, qui
-entreraient en concurrence avec notre ferment et risqueraient d'empêcher la
+d'abord à supprimer les bactéries indésirables qu'il contient, qui
+pourraient entrer en concurrence avec notre ferment et risqueraient d'empêcher la
 fermentation. Ensuite, cela modifie la structure de la caséine, une protéine du
 lait, ce qui permet d'obtenir un yaourt bien ferme. Enfin cela permet d'évacuer
 une partie de l'eau contenue dans le lait, ce qui donnera un yaourt plus épais.
@@ -67,16 +68,16 @@ l'affaire. Néanmoins regardez bien les ingrédients avant de choisir votre yaou
 
 ### Échauffement
 
-Répartissez de lait dans vos bocaux. Il est préférable que tous les bocaux
-contiennent tous une quantité de lait similaire, pour qu'ils chauffent et
+Répartissez de lait dans vos bocaux. Il est préférable qu'ils
+contiennent tous une quantité de lait similaire pour qu'ils chauffent et
 refroidissent à la même vitesse.
 
-Posez les bocaux dans votre cocotte, et remplissez d'eau pour qu'ils
-soient immergés. Laissez une marge de 3cm à 4cm entre le niveau de l'eau
+Posez les bocaux dans votre cocotte et remplissez d'eau pour qu'ils
+soient presque immergés. Laissez une marge de 3cm à 4cm entre le niveau de l'eau
 et le haut des bocaux.
 
 Mettez à chauffer à feu moyen et attendez que le lait ait atteint les
-82°C[^2]. Une fois que c'est fait, baissez le feu et gardez le à cette
+82°C[^2]. Puis baissez le feu et gardez le à cette
 température pendant au moins 20 minutes.
 
 [^2]: Vous pouvez accélérer cette étape en fermant les bocaux, et en couvrant la cocotte. Cependant si le lait chauffe trop vite, il risque de créer des grumeaux désagréables pendant la fermentation. Le fait de le chauffer au bain marie limitant quand même déjà cet effet, j'ai déjà fait de très bons yaourts en fermant les bocaux le temps que le lait chauffe.
@@ -84,16 +85,16 @@ température pendant au moins 20 minutes.
 ### Ensemencement
 
 Une fois les 20 minutes passées, coupez le feu et laisser le lait refroidir.
-Nous allons attendre qu'il soit à 58°C pour ajouter le ferment (les bactéries
+Nous allons attendre qu'il soit à 57°C pour ajouter le ferment (attention les bactéries
 qui nous intéressent meurent au delà de 60°C). Pour vous faire une idée du
 temps d'attente, on perd environ 1°C toutes les deux minutes.
 
-Quand le lait est à environ 58°C, ajoutez le yaourt. Beaucoup de recettes
+Quand le lait est à environ 57°C, ajoutez le yaourt. Beaucoup de recettes
 recommandent 1 yaourt pour 1L de lait mais c'est trop : il suffit de répartir 3
 cuillères à café de yaourt (en tout) dans vos différents bocaux.
 
 Une fois le yaourt ajouté, remuez puis fermez les bocaux, couvrez la cocotte
-et attendez. Au bout de 3h, le yaourt est prêt, vous pouvez mettre les bocaux
+et attendez. Au bout de 5h, le yaourt est prêt, vous pouvez mettre les bocaux
 au frigo. Il m'arrive de les oublier le soir et qu'il passent la nuit dans la
 cocotte, ce n'est pas un problème.
 
