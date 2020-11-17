@@ -14,7 +14,7 @@ tags: recipe
 
 J'ai mis longtemps avant de percer le mystère de l'origine de cette recette
 familiale, introuvable sur Internet. C'est qu'en fait, bien que nous les
-appelions Hurzelsknepfle dans la famille, il s'agit en réalité des
+appellons Hurzelsknepfle dans la famille, il s'agit en réalité des
 _dampfnüdeln au caramel_ alsaciens, des petits pains briochés cuits à la vapeur
 dans un fond de caramel. Le nom _Hurzelsknepfle_ vient lui aussi de l'alsacien
 _hurzel_ qui signifie _crépiter_, car c'est lorsqu'on entend les pains crépiter
