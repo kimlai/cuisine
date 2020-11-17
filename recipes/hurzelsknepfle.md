@@ -34,7 +34,7 @@ lait que de la brioche, mais c'est tout aussi bon.
 
 C'est une recette difficile à réussir parfaitement (comme la plupart des
 recettes de boulangerie) et moi-même je n'y arrive pas très bien, mais je
-trouve qu'elle est très idulgente, et même si on s'y prend un peu n'importe
+trouve qu'elle est très indulgente, et même si on s'y prend un peu n'importe
 comment le résultat est en général plutôt bon, voire très bon.
 
 ## Matériel
