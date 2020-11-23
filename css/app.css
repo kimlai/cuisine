@@ -65,7 +65,7 @@ ol.footnotes-list {
 }
 
 .with-sidebar {
-  overflow: hidden;
+  /* overflow: hidden; this messes with the stocky ingredients */
 }
 
 .with-sidebar > * {
@@ -88,6 +88,8 @@ ol.footnotes-list {
 }
 .recipe--content .ingredients {
   max-width: 40ch;
+  position: sticky;
+  top: var(--s2);
 }
 
 @media (min-width: 120ch) {
