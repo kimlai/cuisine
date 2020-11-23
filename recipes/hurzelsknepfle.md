@@ -110,7 +110,7 @@ c'est-à-dire créer de la tension à la surface des boules, par exemple [comme
 
 ### Repos II
 
-Une fois les boules formées, couvrez les d'un ligne propre et laissez les
+Une fois les boules formées, couvrez les d'un linge propre et laissez les
 reposer 2h à 3h. Elles devraient continuer de gonfler.
 
 ### Le bain de sucre
