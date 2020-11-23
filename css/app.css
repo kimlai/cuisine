@@ -88,13 +88,15 @@ ol.footnotes-list {
 }
 .recipe--content .ingredients {
   max-width: 40ch;
-  position: sticky;
-  top: var(--s2);
 }
 
 @media (min-width: 120ch) {
   .recipe {
     transform: translateX(-6vw);
+  }
+  .recipe--content .ingredients {
+    position: sticky;
+    top: var(--s2);
   }
 }
 
